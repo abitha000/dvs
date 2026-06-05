@@ -1,0 +1,9 @@
+{
+  "name": "dvs-clinic",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dhandapani Siddha Vaithiya Salai — online consultation site",
+  "dependencies": {
+    "nodemailer": "^6.9.14"
+  }
+}
